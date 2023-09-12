@@ -100,6 +100,10 @@ A lightweight minecraft limbo server, written on Java with Netty. The main goal 
 [Limbo GitHub](https://github.com/LOOHP/Limbo)
 Standalone server program Limbo.
 
+## [Quilt](quilt)
+[Quilt Website](https://quiltmc.org/)
+The Quilt project is an open-source, community-driven modding toolchain designed primarily for Minecraft. By focusing on speed, ease of use and modularity, Quilt aims to provide a sleek and modern modding toolchain with an open ecosystem.
+
 ## Spigot Based
 
 A collection of spigot and forked spigot eggs.
@@ -109,6 +113,12 @@ A collection of spigot and forked spigot eggs.
 [PaperMC GitHub](https://github.com/PaperMC/Paper)
 High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 Currently the default on pterodactyl for many reasons. First being that you don't need to build the jar.
+
+### [Folia](folia)
+
+[Folia GitHub](https://github.com/PaperMC/Folia)
+High performance Fork of Paper which adds regionised multithreading to the dedicated server. designed for many players.
+Spigot Plugins are not compatible with this fork. unless they are optimised for Folia.
 
 ### [Purpur](purpur)
 

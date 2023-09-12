@@ -1,4 +1,4 @@
-# Game Eggs
+﻿# Game Eggs
 
 [Among Us](among_us)
 
@@ -13,6 +13,16 @@
 [ClassiCube](classicube)
 
 * [MCGalaxy](classicube/mcgalaxy)
+
+[Clone Hero](clone_hero)
+
+[CS2D](cs2d)
+
+[Cube Engine](cubeengine)
+* [AssaultCube](cubeengine/assaultcube)
+* [Cube 2: Sauerbraten](cubeengine/cube2)
+
+[DDRaceNetwork](ddracenetwork/)
 
 [Doom](doom)
 * [Zandronum](doom/zandronum)
@@ -38,6 +48,7 @@
 * GTA SA
   * [Multi Theft Auto](gta/mtasa)
   * [SA-MP](gta/samp)
+  * [OpenMp](gta/openmp)
 
 * GTA
   * [GTAC](gta/gtac)
@@ -70,6 +81,7 @@
   * [Mohist](minecraft/java/mohist)
   * [NanoLimbo](minecraft/java/nanolimbo)
   * [Paper](minecraft/java/paper)
+  * [Folia](minecraft/java/folia)
   * [Purpur](minecraft/java/purpur)
   * [Spigot](minecraft/java/spigot)
   * [SpongeForge](minecraft/java/spongeforge)
@@ -105,6 +117,8 @@
 
 * [RedM](rdr/redm)
 
+[Spacestation 14](spacestation_14)
+
 [Rimworld](rimworld)
 
 * [Open World](rimworld/open_world)
@@ -122,16 +136,22 @@
 * [Astroneer](steamcmd_servers/astroneer)
 * [Avorion](steamcmd_servers/avorion)
 * [Barotrauma](steamcmd_servers/barotrauma)
+* [BATTALION: Legacy](steamcmd_servers/battalion_legacy)
 * [Black Mesa](steamcmd_servers/black_mesa)
 * [Citadel: Forged with Fire](steamcmd_servers/citadel)
 * [Conan Exiles](steamcmd_servers/conan_exiles)
 * [Core Keeper](steamcmd_servers/core_keeper)
+* [Counter-Strike](steamcmd_servers/counter_strike/)
+  * [Counter-Strike: Source](steamcmd_servers/counter_strike/counter_strike_source/)
+* [Craftopia](game_eggs/steamcmd_servers/craftopia)
 * [CryoFall](steamcmd_servers/cryofall)
 * [DayZ (Experimental)](steamcmd_servers/dayz-experimental)
 * [Don't Starve Together](steamcmd_servers/dont_starve)
 * [ECO](steamcmd_servers/eco)
 * [Empyrion - Galactic Survival](steamcmd_servers/empyrion)
 * [Fistful of Frags](steamcmd_servers/fof)
+* [Frozen Flame](steamcmd_servers/frozen_flame)
+* [Ground Branch](steamcmd_servers/ground_branch)
 * [HLDS Server](steamcmd_servers/hlds_server)
   * [HLDS Vanilla](steamcmd_servers/hlds_server/vanilla)
   * [ReHLDS](steamcmd_servers/hlds_server/rehlds)
@@ -145,7 +165,9 @@
 * [Left 4 Dead 2](steamcmd_servers/left4dead_2)
 * [Modiverse](steamcmd_servers/modiverse)
 * [Mordhau](steamcmd_servers/mordhau)
+* [Neos VR](steamcmd_servers/neosvr)
 * [No More Room in Hell](steamcmd_servers/nmrih)
+* [No One Survived](steamcmd_servers/no_one_survived)
 * [Onset](steamcmd_servers/onset)
 * [Open Fortress](steamcmd_servers/open_fortress)
 * [Operation Harsh Doorstop](steamcmd_servers/operation_harsh_doorstop)
@@ -169,6 +191,7 @@
   * [Exiled](steamcmd_servers/scpsl/exiled)
   * [Multiadmin](steamcmd_servers/scpsl/multiadmin)
 * [Soldat](steamcmd_servers/soldat)
+* [Sons of the Forest](steamcmd_servers/sonsoftheforest)
 * [Space Engineers](steamcmd_servers/space_engineers)
   * [default](steamcmd_servers/space_engineers/default)
   * [torch](steamcmd_servers/space_engineers/torch)
@@ -178,6 +201,7 @@
 * [Stormworks: Build and Rescue](steamcmd_servers/stormworks)
 * [Subnautica: Nitrox Mod](steamcmd_servers/subnautica_nitrox_mod)
 * [Sven Co-op](steamcmd_servers/svencoop)
+* [Swords 'n Magic and Stuff](steamcmd_servers/swords_'n_Magic_and_Stuff)
 * [Team Fortress 2 Classic](steamcmd_servers/team_fortress_2_classic)
 * [The Forest](steamcmd_servers/the_forest)
 * [The Isle](steamcmd_servers/the_isle)
